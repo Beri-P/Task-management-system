@@ -1,0 +1,21 @@
+# Laravel
+/backend/laravel/vendor/
+/backend/laravel/node_modules/
+/backend/laravel/public/storage
+/backend/laravel/storage/*.key
+/backend/laravel/storage/app/public
+/backend/laravel/storage/framework/*
+/backend/laravel/storage/logs/*
+/backend/laravel/.env
+/backend/laravel/.phpunit.result.cache
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+
+# General
+*.log
+.DS_Store
+.env
+.idea/
