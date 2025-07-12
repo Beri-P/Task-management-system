@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": null,
+        "password": "$2y$12$Pt.dNvJyjcLeQycow4Hh3OFpjqHHXEIxBUyHSxWNsemGFFecn\/r2y",
+        "remember_token": null,
+        "created_at": "2025-07-12 10:43:07",
+        "updated_at": "2025-07-12 10:43:07",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "John Mwangi",
+        "email": "john@example.com",
+        "email_verified_at": null,
+        "password": "$2y$12$CBa2DftFBqvo9JYQ4dMWFuyA42UTNBLhntpHP.8uzaoRWlnYM09H2",
+        "remember_token": null,
+        "created_at": "2025-07-12 10:43:08",
+        "updated_at": "2025-07-12 10:43:08",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "Sylvia Munyao",
+        "email": "sly@example.com",
+        "email_verified_at": null,
+        "password": "$2y$12$cr\/zy1a0ryO7WW\/.4qD2UOShBLxRARU55zn5ESzF0r.y3gn0C9zI2",
+        "remember_token": null,
+        "created_at": "2025-07-12 10:43:09",
+        "updated_at": "2025-07-12 10:43:09",
+        "role": "user"
+    }
+]

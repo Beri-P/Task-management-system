@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Complete Project Documentation",
+        "description": "Write comprehensive documentation for the new project including setup instructions and API endpoints.",
+        "user_id": 2,
+        "status": "pending",
+        "deadline": "2025-07-19 10:43:10",
+        "created_at": "2025-07-12 10:43:10",
+        "updated_at": "2025-07-12 10:43:10"
+    },
+    {
+        "id": 2,
+        "title": "Fix Login Bug",
+        "description": "Resolve the authentication issue where users cannot login with special characters in password.",
+        "user_id": 2,
+        "status": "in_progress",
+        "deadline": "2025-07-15 10:43:11",
+        "created_at": "2025-07-12 10:43:11",
+        "updated_at": "2025-07-12 10:43:11"
+    },
+    {
+        "id": 3,
+        "title": "Update Database Schema",
+        "description": "Add new columns to users table and create migration for the changes.",
+        "user_id": 3,
+        "status": "completed",
+        "deadline": "2025-07-17 10:43:11",
+        "created_at": "2025-07-12 10:43:11",
+        "updated_at": "2025-07-12 10:43:11"
+    },
+    {
+        "id": 4,
+        "title": "Design User Interface",
+        "description": "Create wireframes and mockups for the new dashboard interface.",
+        "user_id": 3,
+        "status": "pending",
+        "deadline": "2025-07-22 10:43:12",
+        "created_at": "2025-07-12 10:43:12",
+        "updated_at": "2025-07-12 10:43:12"
+    }
+]
