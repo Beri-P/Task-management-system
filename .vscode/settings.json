@@ -1,0 +1,6 @@
+{
+  // Tell VS Code to treat *.pcss as PostCSS
+  "files.associations": {
+    "*.pcss": "tailwindcss"
+  }
+}
